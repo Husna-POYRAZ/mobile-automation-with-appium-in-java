@@ -54,13 +54,13 @@
 <b>Emulators</b><br>
 * are usually virtualized mobile devices.
 * A good emulator runs exactly the same OS as the physical device that it is emulating, and is therefore a really good option for mobile device testing.
-* The disadvantage to using an emulator is that emulators have limitations include hardware components such as Bluetooth receivers, GPS receivers, cameres.
-<br>
+* The disadvantage to using an emulator is that emulators have limitations include hardware components such as Bluetooth receivers, GPS receivers, cameres.<br><br>
 <b>Physical Devices</b><br>
 * Testing on physical devices is a good idea when you need test results to be as accurate as possible.
 * Testing on physical device gives you the most accuratte test results because, simply put, you are testing on the actual device on which your software will run.
 <br><br>
 <br><br>
+
 # 2- Intoduction to Appium
 ## What is Appium?
 * <b>Appium</b> is an <b>open-source</b> tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms.
