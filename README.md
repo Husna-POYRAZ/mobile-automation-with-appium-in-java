@@ -34,10 +34,6 @@
 * Apple Developer Account
 * Apple Developer Tools (iPhone simulator SDK and command-line tools)
 
-## What is Appium?
-* <b>Appium</b> is an <b>open-source</b> tool for automating native, mobile web, and hybrid applications on iOS mobile, Android mobile, and Windows desktop platforms.
-* <b>Appium</b> is <b>cross-platform</b>: it allows you to write tests against multiple platforms (iOS, Android, Windows), using the same API.
-* You can write <b>Appium</b> tests with different programming languages such as (Java, Python, Javascript, C#, and Ruby).
 
 # 1- Introduction to Mobile Testing
 * Testing your mobile app is a vital part of the app development process.
